@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java-8.0.13.jar protobuf-java-3.6.1.jar prot
+ obuf-java-3.6.1.jar mysql-connector-java-8.0.15.jar
+
